@@ -50,7 +50,7 @@ class _ProfileStudentState extends State<ProfileStudent> {
                                   child: Text(
                                     "SN",
                                     style: TextStyle(
-                                        color: Colors.lightBlueAccent,
+                                        color: Colors.blue,
                                         fontSize: 30,
                                         fontWeight: FontWeight.w500),
                                   ),
